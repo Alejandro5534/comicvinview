@@ -1,0 +1,18 @@
+{
+    "unknownName": "Nombre desconocido",
+    "unknownDate": "Fecha desconocida",
+    "comicBook": "Libro de comics",
+    "lastestIssues": "Ultimos comics",
+    "abrevationLanguage": "ES",
+    "characters": "Personajes",
+    "teams": "Equipos",
+    "locations": "Lugares",
+    "concepts": "Conceptos",
+    "emptyCharacters": "No hay personajes registrados",
+    "emptyTeams": "No hay equipos registrados",
+    "emptyLocations": "No hay lugares registrados",
+    "teams": "Equipos",
+    "locations": "Lugares",
+    "singIn":"Inicia sesion",
+    "singOut": "Cierra sesion"
+}
